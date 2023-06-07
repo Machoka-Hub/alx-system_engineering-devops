@@ -1,0 +1,1 @@
+This scripts print paths and commands as asked in different tasks in shell basics
