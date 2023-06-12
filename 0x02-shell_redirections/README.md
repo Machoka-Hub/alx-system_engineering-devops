@@ -1,0 +1,1 @@
+Scripts for the tasks 0x02. Shell, I/O Redirections and filters
